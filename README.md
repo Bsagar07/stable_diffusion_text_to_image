@@ -1,1 +1,1 @@
-# stable_diffusion_text_to_image
+# stable_diffusion_with_tkinter
